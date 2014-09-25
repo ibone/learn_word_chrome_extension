@@ -1,0 +1,17 @@
+#topImgAd,#result_navigator,#ads,.c-bsearch,#c_footer,#rel-search,#eBaike,.c-header,.c-topbar,#custheme,#authTrans
+,.img-list
+,.keyword
+,#wordbook
+,.more
+,.more-example
+,.collapse-content
+{
+    display:none!important;
+}
+.results-content{
+    margin-left:0px!important;
+}
+#container{
+    width:550px!important;
+    margin-top:0px!important;
+}
